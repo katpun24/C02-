@@ -21,7 +21,7 @@ C02🌿 is a browser extension that tracks and visualizes your real-time digital
 3. Enable **Developer mode** (top right).
 4. Click **Load unpacked** and select the `C02-extension` folder inside this repo.
 5. The C02🌿 icon will appear in your Chrome toolbar. Click it to open the popup.
-6. 
+
 ---
 
 ## How It Works
