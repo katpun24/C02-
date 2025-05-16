@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "C02🌿 Carbon Emissions Tracker",
+  "description": "Estimate and display real-time carbon emissions while browsing.",
+  "version": "1.0.0",
+  "icons": {
+    "128": "icon128.png"
+  },
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon128.png"
+  }
+} 
