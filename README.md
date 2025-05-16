@@ -5,7 +5,7 @@ C02🌿 is a browser extension that tracks and visualizes your real-time digital
 
 ## Features
 - **Real-time CO₂ estimation**: See your estimated carbon emissions (in grams) update every second.
-- **Minimalist, green-themed UI**: Inspired by modern eco design and your Figma prototype.
+- **Minimalist, green-themed UI**: Inspired by modern eco design. 
 - **Persistent tracking**: Emissions total is saved between sessions using localStorage.
 - **Reset button**: Start your emissions timer from zero at any time.
 - **Modular, well-commented code**: Easy to expand or customize.
